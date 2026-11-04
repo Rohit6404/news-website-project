@@ -78,7 +78,7 @@ Get an API key from [NewsAPI](https://newsapi.org/). Configure it locally in you
 
 ## 👨‍💻 Author
 
-**Rohit Shaw**
+**Rohit Kumar Shaw**
 
 GitHub: [@Rohit6404](https://github.com/Rohit6404)
 
